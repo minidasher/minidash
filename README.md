@@ -10,6 +10,13 @@ npm install minidash
 
 ## 사용법
 
+```js
+import { checkedArr } from mimidash;
+
+checkedArr([1, 2]); //true
+```
+
+
 ## 기여하기
 1. 저장소를 fork 해주세요.
 2. 새 브랜치 만들고 수정사항을 푸쉬해주세요.
